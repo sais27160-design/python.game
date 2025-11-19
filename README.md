@@ -72,6 +72,15 @@ my_project/
 Acknowledgments:
 [tutorial from Coad Coach youtube] for inspiration
 
+- **tic_tac_toe()** – Main function that launches the Tic Tac Toe game window.  
+- **cell_click(r, c)** – Handles player moves, validates if a cell is empty, updates the board, checks for win/draw, and switches the turn.  
+- **restart()** – Resets the board and restarts the game.  
+- **draw_symbol(r, c, symbol)** – Draws “X” or “O” in the selected cell.  
+- **check_win()** – Checks for winning conditions in rows, columns, and diagonals.  
+- **check_draw()** – Checks if the game is a draw (all cells filled).  
+- **draw_win_line(index, kind)** – Draws a line across the winning row, column, or diagonal.  
+- **canvas_click(event)** – Handles mouse clicks on the canvas to detect player moves.  
+- **x_mark(r, c)** & **o_mark(r, c)** – Functions that draw the X and O symbols.
 
 
 
