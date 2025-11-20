@@ -65,7 +65,7 @@ def tic_tac_toe():
         canvas.create_oval(x1, y1, x2, y2, width=4, outline="red")
 
     #symbol for players
-    def symbol(r, c, symbol):
+    def draw_symbol(r, c, symbol):
         """
         Draw the symbol (X or O) in the given cell.
         
@@ -146,12 +146,12 @@ def tic_tac_toe():
         if r > 2 or c > 2:
             return
 
-        symbol(r, c)
+        move(r, c)
 
     canvas.bind("<Button-1>", click)
     
     #player move
-    def symbol(r, c):
+    def move(r, c):
         """
         Process a player's move on the selected cell.
         
@@ -160,7 +160,7 @@ def tic_tac_toe():
             return
 
         board[r][c] = player[0]
-        symbol(r, c, player[0])
+        draw_symbol(r, c, player[0])
         
         
         winner = win()
@@ -199,6 +199,5 @@ def tic_tac_toe():
 
 
    
-
 
 
