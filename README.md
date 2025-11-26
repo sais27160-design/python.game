@@ -31,3 +31,4 @@ Git workflow with atomic commits
 - **canvas_click(event)** – Handles mouse clicks on the canvas to detect player moves.  
 - **x_mark(r, c)** & **o_mark(r, c)** – Functions that draw the X and O symbols.
 
+![Main Screen](<img width="996" height="897" alt="image" src="https://github.com/user-attachments/assets/5844b1e0-4573-4c31-8d5c-66dcbbcbab26" />)  
