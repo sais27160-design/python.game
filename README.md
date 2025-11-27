@@ -55,7 +55,6 @@ Fix edge cases (e.g., move outside the grid).
 AI opponent for Tic Tac Toe.
 
 Project Structure:
-
 my_project/
 ├── .git/                 
 ├── .gitignore            
