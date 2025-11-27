@@ -111,3 +111,11 @@
 
 
 
+# def f(n=3):
+#     return n + 7
+ 
+# print(f(f(f())))
+
+# words = ['this', 'is', 'a', 'test', 'of', 'sorting']
+# words.sort(key=len)
+# print(words)

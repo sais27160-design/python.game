@@ -1,0 +1,40 @@
+import telebot
+import random
+
+bot = telebot.TeleBot('8569838314:AAFFvM37DbzIJpDUajswCXh81wL-sIxRGxw')
+print('Hello users')
+
+@bot.message_handler(commands=['start'])
+def start_message(message):
+    user = message.chat.id
+    bot.send_message(user, "Hello \n commands [help,bye,cat,porn] \n if you put some numbers, it will shows sum of them.")
+
+# main code
+@bot.message_handler(content_types=['text'])
+def send_text(message):
+    user = message.chat.id
+    
+    if message.text == "help":
+        bot.send_message(user,'instruction ... ')
+
+    elif message.text == '🤍':
+        bot.send_message(user, 'you too ⛄')
+
+    elif message.text == 'bye':
+        bot.send_message(user, 'well')
+        bot.send_message(user, 'see you')
+    
+    elif message.text.isdigit():
+        nums = [int(n) for n in message.text]
+        bot.send_message(user, f"Sum = {sum(nums)}") 
+    
+    elif message.text == 'cat':
+        bot.send_photo(user, "https://www.wfla.com/wp-content/uploads/sites/71/2023/05/GettyImages-1389862392.jpg?w=2560&h=1440&crop=1")
+        
+    elif message.text == 'porn':
+        bot.send_message(user,'pornhub.com')
+
+    else:
+        bot.send_message(user, '¯\\_(ツ)_/¯')
+
+bot.infinity_polling()
