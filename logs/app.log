@@ -1,0 +1,109 @@
+2025-11-27 13:53:40,769 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 13:53:48,229 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 13:57:20,267 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 13:59:22,629 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:06:31,806 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:08:18,909 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:08:26,197 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:08:26,508 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:08:27,213 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:08:27,662 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:08:28,026 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:08:29,087 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:08:29,540 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:08:29,540 - INFO - Saved stats: {'X_wins': 1, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:08:33,587 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:08:33,837 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:08:34,095 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:08:34,290 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:08:34,900 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:08:36,742 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:08:37,150 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:08:37,415 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:08:37,630 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:08:39,023 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:08:39,263 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:08:39,574 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:08:40,416 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:08:41,493 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:08:41,503 - INFO - Saved stats: {'X_wins': 1, 'O_wins': 0, 'draws': 1}
+2025-11-27 14:09:09,942 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:09:11,806 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:09:11,978 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:09:12,275 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:09:12,502 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:09:12,813 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:09:13,862 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:09:14,043 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:09:14,295 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:09:14,446 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:09:14,743 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:09:15,053 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:09:15,054 - INFO - Saved stats: {'X_wins': 1, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:09:16,815 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:09:17,061 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:09:17,261 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:09:17,494 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:09:17,680 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:09:17,963 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:09:18,198 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:09:18,390 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:09:18,713 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:09:19,021 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:09:19,021 - INFO - Saved stats: {'X_wins': 2, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:09:20,345 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:09:20,526 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:09:20,714 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:09:20,927 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:09:21,078 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:09:21,229 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:09:21,229 - INFO - Saved stats: {'X_wins': 3, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:09:32,289 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:10:08,930 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:10:09,793 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:10:09,977 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:10:10,199 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:10:10,975 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:10:11,165 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:10:11,340 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:10:11,689 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:10:11,899 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:10:11,911 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 1, 'draws': 0}
+2025-11-27 14:10:16,078 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:10:16,285 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:10:16,556 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:10:16,763 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:10:17,034 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:10:17,383 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:10:17,383 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 2, 'draws': 0}
+2025-11-27 14:31:25,954 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 0}
+2025-11-27 14:31:30,268 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:31:30,444 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:31:30,650 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:31:30,871 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:31:31,238 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:31:31,631 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:31:32,399 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:31:32,815 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:31:33,196 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:31:33,200 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 1}
+2025-11-27 14:31:34,584 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:31:34,757 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:31:35,057 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:31:35,237 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:31:35,775 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:31:36,127 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:31:36,669 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:31:37,020 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:31:37,306 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:31:37,321 - INFO - Saved stats: {'X_wins': 0, 'O_wins': 0, 'draws': 2}
+2025-11-27 14:31:38,767 - INFO - move called with args=(2, 0), kwargs={}
+2025-11-27 14:31:38,932 - INFO - move called with args=(2, 1), kwargs={}
+2025-11-27 14:31:39,187 - INFO - move called with args=(1, 1), kwargs={}
+2025-11-27 14:31:39,377 - INFO - move called with args=(1, 0), kwargs={}
+2025-11-27 14:31:40,159 - INFO - move called with args=(0, 1), kwargs={}
+2025-11-27 14:31:40,673 - INFO - move called with args=(1, 2), kwargs={}
+2025-11-27 14:31:40,989 - INFO - move called with args=(2, 2), kwargs={}
+2025-11-27 14:31:41,482 - INFO - move called with args=(0, 0), kwargs={}
+2025-11-27 14:31:41,847 - INFO - move called with args=(0, 2), kwargs={}
+2025-11-27 14:31:41,847 - INFO - Saved stats: {'X_wins': 1, 'O_wins': 0, 'draws': 2}
