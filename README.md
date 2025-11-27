@@ -32,3 +32,48 @@ Git workflow with atomic commits
 - **x_mark(r, c)** & **o_mark(r, c)** – Functions that draw the X and O symbols.
 
 ![Main Screen](<img width="996" height="897" alt="image" src="https://github.com/user-attachments/assets/5844b1e0-4573-4c31-8d5c-66dcbbcbab26" />)  
+
+Installation:
+1.git clone https://github.com/yourusername/my_project.git
+cd my_project
+2.pip install -r requirements.txt
+3.python homescreen.py
+
+Usage:
+Open homescreen.py.
+Click Play Tic Tac Toe to open the game.
+Click Restart in the Tic Tac Toe window to start a new game.
+Wins, losses, and draws are tracked and displayed.
+Add more games to the hub by creating functions similar to open_tictactoe().
+
+TODO:
+(Incomplete Features)
+
+Add more games to the hub (e.g., Snake & Ladder).
+Implement export of stats to PDF.
+Fix edge cases (e.g., move outside the grid).
+AI opponent for Tic Tac Toe.
+
+Project Structure:
+my_project/
+├── .git/                 
+├── .gitignore            
+├── README.md             
+├── requirements.txt      
+├── homescreen.py         # Main entry point for game hub
+├── project.py            # Tic Tac Toe logic & logging
+├── utils.py              # Utility functions for stats & logging
+├── tests/                
+│   └── test_utils.py     
+└── data/                 
+    └── stats.json        # Saves game stats
+
+Acknowledgments:
+[tutorial from Coad Coach youtube] for inspiration
+
+
+
+
+
+    
+
