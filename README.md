@@ -61,13 +61,13 @@ my_project/
 ├── .gitignore            
 ├── README.md             
 ├── requirements.txt      
-├── homescreen.py         # Main entry point for game hub
-├── project.py            # Tic Tac Toe logic & logging
-├── utils.py              # Utility functions for stats & logging
+├── homescreen.py        
+├── project.py           
+├── utils.py              
 ├── tests/                
 │   └── test_utils.py     
 └── data/                 
-    └── stats.json        # Saves game stats
+    └── stats.json       
 
 Acknowledgments:
 [tutorial from Coad Coach youtube] for inspiration
