@@ -1,0 +1,80 @@
+# python.game
+
+PROJECT TITLE: Game Hub
+Author:Sai Sai
+
+Description:
+This project is a graphical Tic-Tac-Toe game built with Python and Tkinter.
+It's contains a simple game menu and you can open and play Tic Tac Toe.
+The game allows two players to play on a 3×3 grid, shows the winner, detects draws, and allows restarting the game.
+More games can be added later (like Snake & Ladder).
+
+Purposr of the program:
+The goal of this project is to create a complete Python application that demonstrates:
+GUI programming (Tkinter canvas)
+Clean function decomposition
+Use of data structures (lists, sets, tuples, dicts)
+Reading/writing logs to external files
+Using a simple API
+Proper error handling and input validation
+Git workflow with atomic commits
+
+ Features:
+
+- **tic_tac_toe()** – Main function that launches the Tic Tac Toe game window.  
+- **cell_click(r, c)** – Handles player moves, validates if a cell is empty, updates the board, checks for win/draw, and switches the turn.  
+- **restart()** – Resets the board and restarts the game.  
+- **draw_symbol(r, c, symbol)** – Draws “X” or “O” in the selected cell.  
+- **check_win()** – Checks for winning conditions in rows, columns, and diagonals.  
+- **check_draw()** – Checks if the game is a draw (all cells filled).  
+- **draw_win_line(index, kind)** – Draws a line across the winning row, column, or diagonal.  
+- **canvas_click(event)** – Handles mouse clicks on the canvas to detect player moves.  
+- **x_mark(r, c)** & **o_mark(r, c)** – Functions that draw the X and O symbols.
+
+![Main Screen](<img width="996" height="897" alt="image" src="https://github.com/user-attachments/assets/5844b1e0-4573-4c31-8d5c-66dcbbcbab26" />)  
+
+Installation:
+1.git clone https://github.com/yourusername/my_project.git
+cd my_project
+2.pip install -r requirements.txt
+3.python homescreen.py
+
+Usage:
+Open homescreen.py.
+Click Play Tic Tac Toe to open the game.
+Click Restart in the Tic Tac Toe window to start a new game.
+Wins, losses, and draws are tracked and displayed.
+Add more games to the hub by creating functions similar to open_tictactoe().
+
+TODO:
+(Incomplete Features)
+
+Add more games to the hub (e.g., Snake & Ladder).
+Implement export of stats to PDF.
+Fix edge cases (e.g., move outside the grid).
+AI opponent for Tic Tac Toe.
+
+Project Structure:
+
+my_project/
+├── .git/                 
+├── .gitignore            
+├── README.md             
+├── requirements.txt      
+├── homescreen.py        
+├── project.py           
+├── utils.py              
+├── tests/                
+│   └── test_utils.py     
+└── data/                 
+    └── stats.json       
+
+Acknowledgments:
+[tutorial from Coad Coach youtube] for inspiration
+
+
+
+
+
+    
+
