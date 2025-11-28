@@ -185,10 +185,7 @@ def tic_tac_toe():
         board[r][c] = player[0]
         draw_symbol(r, c, player[0])
         
-        # Log move
-        # logger.info(f"Player {player[0]} moved to ({r},{c})")
-        
-        
+          
         winner = win()
         if winner:
             game_over[0]=True
