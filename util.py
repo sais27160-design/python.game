@@ -8,7 +8,7 @@ from functools import wraps
 logger = logging.getLogger("tictactoe_logger")
 logger.setLevel(logging.INFO)
 os.makedirs("logs", exist_ok=True)
-handler = RotatingFileHandler("logs/app.log", maxBytes=50000, backupCount=3)
+handler = RotatingFileHandler("logs/app.log", mode = 'a')
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 handler.setFormatter(formatter)
 logger.addHandler(handler)
